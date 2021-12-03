@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524302725515",
+    "project_id": "neelk-brew-crew",
+    "storage_bucket": "neelk-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524302725515:android:e95b9f3deb89abf09bbf8e",
+        "android_client_info": {
+          "package_name": "com.neelkRemalli.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524302725515-kbc8rj07u5q4dau3u0q7u78ve68om4v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGBZY9DKCRdVJgIvqTuRNAEXh4kmJToA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524302725515-kbc8rj07u5q4dau3u0q7u78ve68om4v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
